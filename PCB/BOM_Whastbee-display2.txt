@@ -1,0 +1,22 @@
+Partlist exported from C:/Users/crodriguez.BMOTES/Documents/eagle/WhatsBee_Diaplay/Whastbee-display2.sch at 09/08/2016 0:17
+
+Part         Value              Device             Package          Description                                 BTM_NEG BTM_POS PROD_ID    SPICEMODEL SPICEPREFIX TOP_NEG TOP_POS VALUE
+BATTERY                         JST_2MM_MALE       JST-2-SMD        Mates to single-cell LiPo batteries.        -       +       CONN-11443                        -       +            
+C3           4,7 uF             CPOL-EUT/3528-12R  T/3528-12R       POLARIZED CAPACITOR, European symbol                                                                               
+C5           10 uF              CPOL-EUT/3528-12R  T/3528-12R       POLARIZED CAPACITOR, European symbol                                                                               
+C6           10 uF              CPOL-EUT/3528-12R  T/3528-12R       POLARIZED CAPACITOR, European symbol                                                                               
+C7           1 uF               CPOL-EUT/3528-12R  T/3528-12R       POLARIZED CAPACITOR, European symbol                                                                               
+CHARGE                          LEDCHIPLED_0805    CHIPLED_0805     LED                                                                                                                
+D1           MBR120             CGRM4001-G         SOD-123_MINI-SMA Molded plasitc,JEDEC SOD-123/Mini SMA                                                                              
+ESP8266-12                      ESP-12             ESP-12                                                                                                                              
+J4           USB-MICROB         USB-MICROB         USB-MICROB       USB Connectors                                              CONN-09505                                             
+OLED_DISPLAY                    M04PTH             1X04             Header 4                                                    CONN-09696                                             
+PROGRAM                         M04LOCK            1X04_LOCK        Header 4                                                    CONN-09696                                             
+R1           470                R                  R0805            RESISTOR, European symbol                                              NONE       R                                
+R2           2K                 R                  R0805            RESISTOR, European symbol                                              NONE       R                                
+R3           10K                R                  R0805            RESISTOR, European symbol                                              NONE       R                                
+R4           470                R                  R0805            RESISTOR, European symbol                                              NONE       R                                
+R5           470                R                  R0805            RESISTOR, European symbol                                              NONE       R                                
+U$1          MCP73831T-2ACI/OT  MCP73831T-2ACI/OT  SOT95P280X145-5N Charge Management Controller                                                                                       
+U$2          SWITCH-LED_AMIDATA SWITCH-LED_AMIDATA LED                                                                                                                                 
+U2           3.3V               V_REG_AP2112K-3.3V SOT23-5          AP2112 - 600mA CMOS LDO Regulator w/ Enable                 VREG-12457                                        3.3V 
